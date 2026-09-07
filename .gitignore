@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-.env
-*.egg-info/
-.venv/
-venv/
-service-account.json
-*.key.json
-.DS_Store
